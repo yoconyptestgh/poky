@@ -1,5 +1,5 @@
-Poky
-====
+Pokee
+=====
 
 Poky is an integration of various components to form a pre-packaged
 build system and development environment which is used as a development and
